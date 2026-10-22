@@ -14,7 +14,7 @@
 
 You can download the latest pre-built APK directly from GitHub:
 
-👉 **[Download LoanWise v1.0.0 APK](https://github.com/mrdineshmali/LoanWise-Smart-EMI-Calculator/releases/download/v1.0.0/LoanWise-v1.0.0.apk)**
+👉 **[Download LoanWise v1.0.0 APK](https://github.com/mrdineshmali/LoanWise-Smart-EMI-Calculator/raw/main/release/LoanWise-v1.0.0.apk)**
 
 ---
 

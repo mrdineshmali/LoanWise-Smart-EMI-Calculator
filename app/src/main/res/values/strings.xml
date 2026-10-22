@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoanWise: Smart EMI Calculator</string>
+    <string name="disclaimer_notice">Disclaimer: Calculations are illustrative based on input figures. Final terms, exact EMI, processing fees, and interest charges are subject to your lender\'s approval.</string>
+</resources>

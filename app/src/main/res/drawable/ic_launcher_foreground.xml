@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Golden Sun Rays behind Rupee Coin -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M48,16 L48,22 M34,22 L38,26 M62,22 L58,26 M26,34 L32,36 M70,34 L64,36"
+        android:strokeColor="#FDE047"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Gold Rupee Coin Top Center -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M48,18 C58,18 66,26 66,36 C66,46 58,54 48,54 C38,54 30,46 30,36 C30,26 38,18 48,18 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M48,22 C55.7,22 62,28.3 62,36 C62,43.7 55.7,50 48,50 C40.3,50 34,43.7 34,36 C34,28.3 40.3,22 48,22 Z" />
+    <!-- Rupee Symbol '₹' on Coin -->
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M43,28 H53 M43,32 H52 M43,28 V38 C46,38 49,37 51,35 L53,44 H48 L43,38"
+        android:strokeColor="#78350F"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- 3D Calculator Body (Main Box) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M22,38 H60 C64,38 67,41 67,45 V82 C67,86 64,89 60,89 H22 C18,89 15,86 15,82 V45 C15,41 18,38 22,38 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M23,36 H61 C65,36 68,39 68,43 V80 C68,84 65,87 61,87 H23 C19,87 16,84 16,80 V43 C16,39 19,36 23,36 Z" />
+
+    <!-- EMI Screen Display on Calculator -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M21,41 H59 C61,41 63,43 63,45 V55 C63,57 61,59 59,59 H21 C19,59 17,57 17,55 V45 C17,43 19,41 21,41 Z" />
+
+    <!-- 'EMI' Display Text Placeholder -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,46 H30 V48 H26 V50 H29 V52 H26 V54 H30 V56 H24 Z M33,46 H36 L38,52 L40,46 H43 V56 H40 V50 L38.5,55 H37.5 L36,50 V56 H33 Z M46,46 H49 V56 H46 Z" />
+
+    <!-- Calculator Keys (Plus, Minus, Multiply, Divide, Equal) -->
+    <!-- Plus Key '+' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M21,63 H31 V71 H21 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,65 V69 M24,67 H28"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Minus Key '-' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,63 H44 V71 H34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,67 H41"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Multiply Key '×' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M21,74 H31 V82 H21 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,76 L28,80 M28,76 L24,80"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Divide Key '÷' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,74 H44 V82 H34 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,78 H41 M39,76 V76.1 M39,80 V80.1"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Large Equal Key '=' -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M47,63 H59 V82 H47 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,70 H56 M50,75 H56"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Growth Chart Bars & Arrow on Right -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M45,86 H51 V92 H45 Z M53,82 H59 V92 H53 Z M61,76 H67 V92 H61 Z M69,70 H75 V92 H69 Z M77,62 H83 V92 H77 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,82 Q65,68 82,50 L84,56 L86,46 L76,48 L81,52 Q65,69 42,82 Z" />
+
+    <!-- Floating Circular Category Badges on Right -->
+    <!-- Home Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,20 C83.5,20 88,24.5 88,30 C88,35.5 83.5,40 78,40 C72.5,40 68,35.5 68,30 C68,24.5 72.5,20 78,20 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M78,24 L72,29 V35 H84 V29 Z M76,31 H80 V35 H76 Z" />
+
+    <!-- Car Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M84,36 C89.5,36 94,40.5 94,46 C94,51.5 89.5,56 84,56 C78.5,56 74,51.5 74,46 C74,40.5 78.5,36 84,36 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M78,48 C78,44 80,42 84,42 C88,42 90,44 90,48 H78 Z M80,50 A1.5,1.5 0 1,0 80,50.1 M88,50 A1.5,1.5 0 1,0 88,50.1"
+        android:strokeColor="#EF4444"
+        android:strokeWidth="1" />
+
+    <!-- Bike Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M82,54 C87.5,54 92,58.5 92,64 C92,69.5 87.5,74 82,74 C76.5,74 72,69.5 72,64 C72,58.5 76.5,54 82,54 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M76,66 A2.5,2.5 0 1,0 76,66.1 M88,66 A2.5,2.5 0 1,0 88,66.1 M77,66 L82,60 L87,66"
+        android:strokeColor="#1E3A8A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+
+    <!-- Personal Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,70 C79.5,70 84,74.5 84,80 C84,85.5 79.5,90 74,90 C68.5,90 64,85.5 64,80 C64,74.5 68.5,70 74,70 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M74,74 A2.5,2.5 0 1,0 74,74.1 M69,84 C69,80 71,78 74,78 C77,78 79,80 79,84 H69 Z" />
+
+</vector>
